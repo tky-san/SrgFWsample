@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AOPSample/src/main/java"/>
+	<classpathentry kind="src" path="AOPSample/src/test/java"/>
+	<classpathentry kind="src" path="DISample/src/main/java"/>
+	<classpathentry kind="src" path="DISample/src/test/java"/>
+	<classpathentry kind="src" path="InjectionSample/src/main/java"/>
+	<classpathentry kind="src" path="InjectionSample/src/test/java"/>
+	<classpathentry kind="src" path="InterfaceSample/src"/>
+	<classpathentry kind="src" path="JavaConfigSample/src/main/java"/>
+	<classpathentry kind="src" path="JavaConfigSample/src/test/java"/>
+	<classpathentry kind="src" path="LombokSample/src/main/java"/>
+	<classpathentry kind="src" path="LombokSample/src/test/java"/>
+	<classpathentry kind="src" path="PathValiableSample/src/main/java"/>
+	<classpathentry kind="src" path="PathValiableSample/src/test/java"/>
+	<classpathentry kind="src" path="RequestParamSample/src/main/java"/>
+	<classpathentry kind="src" path="RequestParamSample/src/test/java"/>
+	<classpathentry kind="src" path="SpringMVCSample/src/main/java"/>
+	<classpathentry kind="src" path="SpringMVCSample/src/test/java"/>
+	<classpathentry kind="src" path="ThymeleafSample/src/main/java"/>
+	<classpathentry kind="src" path="ThymeleafSample/src/test/java"/>
+	<classpathentry kind="lib" path="AOPSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="DISample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="InjectionSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="JavaConfigSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="LombokSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="PathValiableSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="RequestParamSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="SpringMVCSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ThymeleafSample/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="InterfaceSample/bin"/>
+</classpath>
